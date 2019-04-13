@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="715dd76b-9301-499f-a49e-27070b2a0a22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$E_Lab9_Pug_Report.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ASE_Lab10_Heroku_Deployment.docx" beforeDir="false" afterPath="$PROJECT_DIR$/ASE_Lab10_Heroku_Deployment.docx" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,7 +19,7 @@
         <entry file="file://$PROJECT_DIR$/DP_PugAssignment/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="20" column="28" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="28" />
+              <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -185,15 +183,16 @@
       <updated>1554852121226</updated>
       <workItem from="1554852123240" duration="13118000" />
       <workItem from="1554996606750" duration="113000" />
-      <workItem from="1555122223568" duration="5118000" />
+      <workItem from="1555122223568" duration="6228000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18587000" />
+    <option name="totallyTimeSpent" value="19697000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24404761" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -289,7 +288,7 @@
     <entry file="file://$PROJECT_DIR$/DP_PugAssignment/app.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="28" />
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="29" />
         </state>
       </provider>
     </entry>
